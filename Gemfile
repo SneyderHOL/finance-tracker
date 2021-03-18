@@ -21,9 +21,10 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 #use devise
 gem 'devise'
-# Use devise-bootstrap-vies
+# Use devise-bootstrap-views
 gem 'devise-bootstrap-views', '~> 1.0'
-
+# Use iex-ruby-client
+gem 'iex-ruby-client'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
