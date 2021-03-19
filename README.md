@@ -4,6 +4,11 @@
 
 This project has authentication features like signup, login/signout, edit profile. Users can: track stocks, up to 10 per user, their profile page will display all the stocks they are tracking with the current price. can search for stocks, add and remove stocks from their porfolio, can search for friends, or other users by name or email, can view the portfolio of stocks their friends are tracking for investing ideas, this app was made using Ruby on Rails (RoR) framework with focus mostly on backend functionalities but it includes a basic view to use.
 
+## Check this app at:
+
+https://tranquil-sea-85295.herokuapp.com
+
+
 ## How users can get started with?
 
 ### Pre-requisites
